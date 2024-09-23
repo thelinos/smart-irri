@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1017185762494",
+    "firebase_url": "https://smartirrigation-8d59c-default-rtdb.firebaseio.com",
+    "project_id": "smartirrigation-8d59c",
+    "storage_bucket": "smartirrigation-8d59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017185762494:android:fac64d972ec9acc62ff2ef",
+        "android_client_info": {
+          "package_name": "com.example.smart_irri_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoo1EVkvjpzKbbZJSNfa0kV4dId1hD2z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
